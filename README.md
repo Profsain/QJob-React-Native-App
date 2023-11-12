@@ -1,14 +1,13 @@
-# Expo Router Example
+# QJobs React Native App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
+## 🚀 Features to Add
 
-```sh
-npx create-expo-app -e with-router
-```
+1- Menu
+2- User signup/login using Google and Github
+3- Save jobs/ favorite job
+4- Share jobs on social media platform
+
 
 ## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Work in progress
