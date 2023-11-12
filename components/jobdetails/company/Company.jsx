@@ -4,9 +4,10 @@ import styles from './company.style'
 import { icons } from '../../../constants'
 import { checkImageURL } from '../../../utils'
 
-const Company = ({ companyLogo, jobTitle, companyName, location}) => {
+const Company = ({ companyLogo, jobTitle, companyName, location }) => {
+  console.log('companyLogo', companyLogo)
   return (
-    <View style={style.container}>
+    <View style={styles.container}>
       <View style={styles.logoBox}>
         <Image
           source={{
